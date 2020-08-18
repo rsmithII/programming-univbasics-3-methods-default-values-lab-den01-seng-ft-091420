@@ -7,4 +7,4 @@ def meal_choice(veg1, veg2, protein = 'tofu')
  puts meal
 end
 
-meal_choice("broccoli", "macaroni", "roast beef")
+meal_choice("broccoli", "macaroni", "meat")
